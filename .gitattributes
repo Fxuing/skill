@@ -1,0 +1,7 @@
+# 统一按 LF 存储与检出：技能里的 js / py / html 在 Windows 上也保持 LF，
+# 避免不同平台往返时整文件变成 CRLF 而产生无意义的 diff。
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.zip binary

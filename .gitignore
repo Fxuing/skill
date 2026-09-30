@@ -1,0 +1,8 @@
+# 构建产物：scene 目录里由 build.js 生成
+index.html
+
+# 依赖与杂项
+node_modules/
+.DS_Store
+Thumbs.db
+*.zip
